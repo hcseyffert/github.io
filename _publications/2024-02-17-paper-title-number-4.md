@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Assessment of ship operational noise for acoustic emission-based structural health monitoring"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
