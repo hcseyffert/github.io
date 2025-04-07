@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Unidirectional and Multi-directional Wave Estimation from Ship Motions Using an Adaptive Kalman Filter with the Inclusion of Varying Forward Speed"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
