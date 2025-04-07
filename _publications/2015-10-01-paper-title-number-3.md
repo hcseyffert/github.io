@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Designing for dangerous waves – a new ‘Adaptive Screening’ method to predict extreme values for non-linear responses of marine structures to waves"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
