@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Harleigh C. Seyffert"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor in Ship Hydromechanics at TU Delft, specializing in the long-term forecasting of extreme, rare events in the maritime field"
   location         : "Delft, the Netherlands"
   employer         : "Delft University of Technology"
   uri              : # URL
