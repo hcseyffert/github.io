@@ -11,9 +11,10 @@ redirect_from:
 
 Education - The University of Michigan
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Naval Architecture & Marine Engineering, thesis: Extreme Design Events due to Combined non-Gaussian Loading, 2018
+* M.S.E. Naval Architecture & Marine Engineering, 2016
+* M.S. Electrical & Computer Engineering: Digital Signal Processing, 2016
+* B.S.E. Naval Architecture & Marine Engineering, Summa Cum Laude, 2014 \\
 
 Work experience
 ======
