@@ -14,24 +14,18 @@ Education - The University of Michigan
 * Ph.D Naval Architecture & Marine Engineering, thesis: Extreme Design Events due to Combined non-Gaussian Loading, 2018
 * M.S.E. Naval Architecture & Marine Engineering, 2016
 * M.S. Electrical & Computer Engineering: Digital Signal Processing, 2016
-* B.S.E. Naval Architecture & Marine Engineering, Summa Cum Laude, 2014 \\
+* B.S.E. Naval Architecture & Marine Engineering, Summa Cum Laude, 2014
 
-Work experience
+Academic Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* TU Delft, 2018 - present
+  * Assistant Professor, Ship Hydromechanics, Department of Maritime and Transport Technology, March 2020- May 2023 (UD1), May 2023-present (UD2) (maternity leave duration over tenure track period: 20 months)
+  * Director of Studies & Master's Coordinator, Marine Technology MSc program, October 2024-present
+  * Postdoctoral Researcher, Ship Design, Production, & Operations, Department of Maritime and Transport Technology, October 2018-March 2020
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* The University of Michigan
+  * Postdoctoral Researcher, Naval Architecture & Marine Engineering, March - August 2018
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
