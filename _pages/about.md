@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my page!
+Welcome to my webiste! I am Harleigh Seyffert, an Assistant Professor of Ship Hydromechanics at the Technical University of Delft in the Netherlands. My background is in Naval Architecture and Marine Engineering and Digital Signal Processing and I am interested in the statistics of extreme waves and wave-induced events. With an awesome group of PhD candidates, I am researching methods to more efficiently design our high fidelity simulations/ tests to get converged estimates of extreme responses, and methods to better monitor and analyze the waves and wave-induced responses our maritime systems experience in the real world.
 
 Research
 ======
